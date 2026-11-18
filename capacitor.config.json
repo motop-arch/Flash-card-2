@@ -1,0 +1,9 @@
+{
+  "appId": "com.surjo.dailycards",
+  "appName": "Daily Cards",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": false
+  }
+}
